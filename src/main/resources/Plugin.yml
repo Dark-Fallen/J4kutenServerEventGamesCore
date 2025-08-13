@@ -1,0 +1,35 @@
+name: UHCPlugin
+version: '${project.version}'
+main: ru.darusfriman.uhcplugin.UHCPlugin
+api-version: '1.21'
+
+
+commands:
+
+  uhc_create_game:
+    description: "Создает уникальный экземпляр UHC-сессии."
+    usage: "/create_game [game_name]"
+    permission: "gamemaster"
+    permission-message: "Вы не являетесь текущим game-мастером."
+
+  uhc_configure_game:
+    description: "Открывает конфигурацию уникального экземпляра UHC-сессии."
+    usage: "/configure_game [game_name]"
+    permission: "gamemaster"
+    permission-message: "Вы не являетесь текущим game-мастером."
+
+  uhc_start_game:
+    description: "Запускает уникальный экземпляр UHC-сессии."
+    usage: "/start_game [game_name]"
+    permission: "gamemaster"
+    permission-message: "Вы не являетесь текущим game-мастером."
+
+  uhc_end_game:
+    description: "Досрочно завершает уникальный экземпляр UHC-сессии."
+    usage: "/end_game [game_name]"
+    permission: "gamemaster"
+    permission-message: "Вы не являетесь текущим game-мастером."
+
+  uhc_games_list:
+    description: "Выводит список активных UHC-сессий."
+    usage: "/games_list"

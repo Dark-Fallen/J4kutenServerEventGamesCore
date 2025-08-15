@@ -7,6 +7,7 @@
 - [Game](https://github.com/Dark-Fallen/J4kutenServerEventGamesCore/blob/main/src/main/java/ru/darusfriman/eventgamesmanagercore/Game/Game.java) для реализации класса миниигры
 - [GameConfig](https://github.com/Dark-Fallen/J4kutenServerEventGamesCore/blob/main/src/main/java/ru/darusfriman/eventgamesmanagercore/Game/GameConfig.java) для реализации конфигурации миниигры
 - [GameManager](https://github.com/Dark-Fallen/J4kutenServerEventGamesCore/blob/main/src/main/java/ru/darusfriman/eventgamesmanagercore/Game/GameManager.java) для универсальных функий управления экземплярами игр
+- 
 
 Зависимости для сборки:
 - [org.spigotmc:spigot-api:1.21-R0.1-SNAPSHOT](https://getbukkit.org/download/spigot)

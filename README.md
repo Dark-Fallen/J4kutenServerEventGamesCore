@@ -27,6 +27,6 @@
           <artifactId>EventGamesManagerCore</artifactId>
           <version>0.1-ALPHA</version>
           <scope>system</scope>
-          <systemPath>D:/ProgramFiles/Minecraft/Server/plugins/EventGamesManagerCore-0.1-ALPHA.jar</systemPath>
+          <systemPath>JARFileFolder/EventGamesManagerCore-0.1-ALPHA.jar</systemPath>
       </dependency>
   ```

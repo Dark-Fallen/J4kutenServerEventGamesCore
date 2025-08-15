@@ -7,6 +7,7 @@
 - [Game](https://github.com/Dark-Fallen/J4kutenServerEventGamesCore/blob/main/src/main/java/ru/darusfriman/eventgamesmanagercore/Game/Game.java) для реализации класса миниигры
 - [GameConfig](https://github.com/Dark-Fallen/J4kutenServerEventGamesCore/blob/main/src/main/java/ru/darusfriman/eventgamesmanagercore/Game/GameConfig.java) для реализации конфигурации миниигры
 - [GameManager](https://github.com/Dark-Fallen/J4kutenServerEventGamesCore/blob/main/src/main/java/ru/darusfriman/eventgamesmanagercore/Game/GameManager.java) для универсальных функий управления экземплярами игр
+- [MyPair](https://github.com/Dark-Fallen/J4kutenServerEventGamesCore/blob/main/src/main/java/ru/darusfriman/eventgamesmanagercore/Game/MyPair.java) для работы с элементами `Map<String, Object>` компонента `GameConfig`.
 - 
 
 Зависимости для сборки:

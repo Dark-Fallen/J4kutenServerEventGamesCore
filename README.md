@@ -11,6 +11,7 @@
 - [PlayerExpGameClass](https://github.com/Dark-Fallen/J4kutenServerEventGamesCore/blob/main/src/main/java/ru/darusfriman/eventgamesmanagercore/Game/PlayerGameExpClass.java) для выполнения подсчетов опыта игроков.
 - [PlayerManager](https://github.com/Dark-Fallen/J4kutenServerEventGamesCore/blob/main/src/main/java/ru/darusfriman/eventgamesmanagercore/Game/PlayerManager.java) для работы с данными игроков.
 - [TestGameClass](https://github.com/Dark-Fallen/J4kutenServerEventGamesCore/blob/main/src/main/java/ru/darusfriman/eventgamesmanagercore/Game/TestGameClass.java) для основы изчения наследования от `Game`.
+- [WorldsManager](https://github.com/Dark-Fallen/J4kutenServerEventGamesCore/blob/main/src/main/java/ru/darusfriman/eventgamesmanagercore/Game/WorldsManager.java) для работы с мирами миниигр.
 
 Зависимости для сборки:
 - [org.spigotmc:spigot-api:1.21-R0.1-SNAPSHOT](https://getbukkit.org/download/spigot)
